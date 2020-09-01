@@ -8,7 +8,7 @@ The API can be found at the URL you choose for the admin2 and then append
 ``api/v0/``.
 
 If the API has changed in a backwards-incompatible way we will increase the
-API version to the next number. So you can be sure that you're frontend code
+API version to the next number. So you can be sure that your frontend code
 should keep working even between updates to more recent django-admin2
 versions.
 
